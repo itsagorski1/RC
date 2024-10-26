@@ -9,7 +9,7 @@ python main.py
 make sure you have Python installed before trying to run it.
 
 <p align="center">
-*****NOTE*****
+<b>*****NOTE*****</b>
 </p>
 
 This project is not completed and will not work the only way to make this work is by running `graphics.py` so the command would be.
