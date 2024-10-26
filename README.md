@@ -5,3 +5,6 @@ Run `RC` by using
 python main.py
 ```
 make sure you have Python installed before trying to run it.
+*****NOTE*****
+This project is not completed and will not work the only way to make this work is by running `graph
+ics.py.
