@@ -12,4 +12,7 @@ make sure you have Python installed before trying to run it.
 *****NOTE*****
 </p>
 
-This project is not completed and will not work the only way to make this work is by running `graphics.py.
+This project is not completed and will not work the only way to make this work is by running `graphics.py` so the command would be.
+```shell
+python graphics.py
+```
